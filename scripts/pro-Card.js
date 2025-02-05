@@ -23,6 +23,4 @@ function updateTime () {
 setInterval(updateTime, 1000);
 updateTime();
 
-console.log(currentTime);
-
 
